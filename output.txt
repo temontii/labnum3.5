@@ -1,0 +1,216 @@
+Developer35          Neighborhood80       Brick      2020       NO         NO         22         7  ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+         128.40
+Developer60          Neighborhood2        Panel      2019       NO         YES      ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+   26         29         84.00
+Developer99          Neighborhood25       Brick      2019       NO   ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+       NO         82         46         43.30
+Developer31          Neighborhood72       Panel       ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+2018       YES        NO         104        1          110.30
+Developer0           Neighborhood9    ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+     Panel      2016       YES        YES        13         5          71.90
+Developer8           N ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+eighborhood56       Panel      2016       NO         NO         80         16         105.20
+Develo ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+per52          Neighborhood8        Monolith   2015       YES        NO         68         37       ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+   62.60
+Developer91          Neighborhood65       Brick      2015       YES        NO         83   ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+       41         35.40
+Developer79          Neighborhood19       Monolith   2015       YES         ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+YES        66         37         81.10
+Developer44          Neighborhood69       Brick      2013    ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+    NO         NO         27         12         58.00
+Developer9           Neighborhood38       Pan ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+el      2011       NO         NO         61         5          91.60
+Developer69          Neighborh ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+ood24       Panel      2009       YES        YES        46         4          90.90
+Developer87     ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+      Neighborhood51       Brick      2008       NO         NO         77         30         61.80
+ ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+Developer81          Neighborhood47       Brick      2008       NO         NO         67         9  ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+         93.60
+Developer91          Neighborhood69       Panel      2008       NO         NO        ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+  13         22         118.00
+Developer37          Neighborhood32       Brick      2006       YES  ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+       YES        36         29         92.60
+Developer63          Neighborhood39       Monolith    ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+2004       YES        YES        24         6          77.80
+Developer1           Neighborhood66    ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+    Monolith   2004       NO         NO         11         30         118.20
+Developer89          N ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+eighborhood73       Monolith   2003       NO         NO         40         40         43.40
+Develop ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+er43          Neighborhood62       Panel      2003       NO         NO         81         42        ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+  38.60
+Developer38          Neighborhood29       Panel      2001       YES        YES        53    ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+      27         78.50
+Developer85          Neighborhood60       Monolith   2001       NO         N ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+O         89         31         112.60
+Developer86          Neighborhood24       Brick      1999    ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+    YES        NO         58         29         34.80
+Developer5           Neighborhood93       Mon ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+olith   1997       YES        YES        96         35         51.10
+Developer13          Neighborh ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+ood43       Brick      1996       NO         NO         39         3          38.60
+Developer13     ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+      Neighborhood48       Monolith   1994       YES        YES        52         42         105.70 ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+
+Developer90          Neighborhood53       Brick      1990       NO         NO         41         3 ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+4         92.40
+Developer2           Neighborhood34       Monolith   1987       NO         NO       ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+   37         45         58.70
+Developer89          Neighborhood44       Panel      1985       NO   ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+       NO         44         24         121.10
+Developer61          Neighborhood73       Brick      ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+ 1984       NO         NO         104        14         109.90
+Developer28          Neighborhood67  ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+      Monolith   1982       YES        NO         94         47         65.40
+Developer94           ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+Neighborhood41       Panel      1981       YES        YES        93         21         75.90
+Develo ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+per74          Neighborhood54       Panel      1980       NO         NO         23         17       ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+   52.70
+Developer74          Neighborhood24       Monolith   1979       NO         YES        66   ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+       22         128.60
+Developer4           Neighborhood94       Monolith   1979       NO         ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+ NO         85         18         30.00
+Developer44          Neighborhood45       Brick      1978   ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+     NO         NO         62         14         57.00
+Developer9           Neighborhood53       Br ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+ick      1976       YES        YES        80         49         53.30
+Developer51          Neighbor ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+hood57       Monolith   1976       YES        NO         65         28         54.00
+Developer95    ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+       Neighborhood56       Brick      1975       YES        NO         45         5          93.20 ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+
+Developer8           Neighborhood13       Brick      1975       YES        NO         87         3 ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+6         67.30
+Developer41          Neighborhood28       Monolith   1974       NO         YES      ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+   45         29         42.40
+Developer54          Neighborhood77       Panel      1973       YES  ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+       NO         50         44         79.00
+Developer11          Neighborhood61       Brick       ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+1970       NO         YES        56         20         69.60
+Developer28          Neighborhood22    ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+    Monolith   1969       YES        YES        26         8          81.50
+Developer3           Ne ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+ighborhood40       Brick      1969       NO         YES        79         14         51.90
+Develope ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+r70          Neighborhood56       Monolith   1967       NO         YES        35         35         ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+ 88.40
+Developer74          Neighborhood61       Brick      1966       YES        NO         55     ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+     9          107.90
+Developer54          Neighborhood13       Brick      1966       YES        Y ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+ES        72         48         115.00
+Developer22          Neighborhood27       Brick      1966    ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+    YES        NO         13         49         110.70
+Developer29          Neighborhood21       Pa ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+nel      1963       NO         NO         101        25         116.80
+Developer79          Neighbo ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+rhood9        Brick      1961       YES        YES        82         24         115.40
+Developer20  ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+         Neighborhood31       Panel      1961       NO         NO         51         3          64. ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+60
+Developer71          Neighborhood62       Monolith   1960       YES        YES        19         ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+ 42         92.40
+Developer18          Neighborhood15       Monolith   1959       NO         YES    ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+     62         13         63.30
+Developer27          Neighborhood69       Panel      1959       NO ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+         NO         49         23         72.20
+Developer12          Neighborhood97       Panel     ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+  1959       NO         NO         62         24         105.80
+Developer33          Neighborhood21 ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+       Brick      1958       YES        YES        43         50         128.70
+Developer17         ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+  Neighborhood74       Panel      1957       NO         NO         31         49         127.50
+Dev ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+eloper86          Neighborhood60       Panel      1956       YES        NO         107        44    ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+      82.00
+Developer49          Neighborhood23       Brick      1954       YES        NO         7 ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+4         6          97.80
+Developer82          Neighborhood30       Monolith   1954       YES      ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+   NO         27         36         87.60
+Developer51          Neighborhood56       Panel      1954 ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+       NO         NO         16         23         67.20
+Developer94          Neighborhood56        ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+Panel      1953       NO         YES        67         49         92.50
+Developer81          Neighb ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+orhood87       Monolith   1948       NO         NO         94         32         79.50
+Developer71  ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+         Neighborhood71       Brick      1947       YES        YES        65         29         48. ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+60
+Developer22          Neighborhood96       Brick      1946       NO         YES        95         ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+ 45         66.80
+Developer1           Neighborhood27       Panel      1943       YES        NO     ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+     60         13         125.60
+Developer32          Neighborhood70       Monolith   1941       N ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+O         NO         19         27         88.50
+Developer3           Neighborhood4        Monolith ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+   1941       YES        NO         80         6          106.00
+Developer63          Neighborhood8 ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+6       Brick      1940       YES        NO         48         19         45.40
+Developer90         ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+  Neighborhood59       Brick      1933       NO         YES        25         15         121.10
+Dev ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+eloper6           Neighborhood97       Brick      1933       NO         NO         57         3     ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+      91.10
+Developer17          Neighborhood8        Panel      1932       YES        NO         2 ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+1         11         115.30
+Developer48          Neighborhood94       Panel      1932       YES     ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+    YES        41         22         68.60
+Developer0           Neighborhood29       Panel      193 ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+0       YES        YES        69         2          114.90
+Developer3           Neighborhood95      ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+  Brick      1929       NO         NO         32         9          82.80
+Developer54          Neig ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+hborhood42       Monolith   1926       NO         NO         95         7          60.90
+Developer8 ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+3          Neighborhood51       Brick      1922       YES        NO         43         12         1 ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+27.70
+Developer36          Neighborhood31       Monolith   1919       NO         YES        107     ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+    9          42.40
+Developer99          Neighborhood3        Panel      1919       YES        YES ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+        29         8          105.00
+Developer76          Neighborhood13       Brick      1919      ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+  YES        NO         104        2          84.70
+Developer47          Neighborhood81       Monol ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+ith   1916       NO         NO         78         21         32.70
+Developer57          Neighborhoo ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+d44       Brick      1915       NO         YES        23         5          126.80
+Developer18      ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+     Neighborhood31       Panel      1914       YES        NO         92         24         98.30
+D ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+eveloper2           Neighborhood43       Brick      1914       YES        NO         44         22  ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+        123.80
+Developer89          Neighborhood36       Panel      1913       YES        YES       ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+  29         3          41.90
+Developer25          Neighborhood55       Brick      1912       NO    ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+      YES        86         20         57.00
+Developer56          Neighborhood80       Panel      1 ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+912       NO         YES        14         3          43.20
+Developer24          Neighborhood79     ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+   Brick      1912       NO         YES        56         5          96.70
+Developer6           Nei ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+ghborhood13       Monolith   1911       YES        YES        103        3          90.30
+Developer ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+88          Neighborhood96       Brick      1911       YES        YES        55         21          ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+60.90
+Developer5           Neighborhood25       Panel      1908       YES        YES        42      ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+    40         49.50
+Developer46          Neighborhood64       Panel      1907       YES        YES ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+        78         46         61.00
+Developer32          Neighborhood85       Monolith   1907       ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+ YES        YES        37         32         71.30
+Developer45          Neighborhood18       Monoli ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+th   1907       YES        YES        62         37         119.00
+Developer20          Neighborhoo ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+d44       Panel      1906       NO         NO         32         49         91.80
+Developer46       ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+    Neighborhood83       Panel      1904       NO         YES        97         10         91.80
+De ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+veloper52          Neighborhood49       Panel      1903       YES        NO         11         48   ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+       77.30
+Developer18          Neighborhood28       Brick      1900       NO         YES         ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+34         30         117.90
+Developer76          Neighborhood41       Brick      1900       NO     ‰                   Monolith   393        YES        YES        32759      268501009  0.00
+     NO         46         10         103.10
+ ‰                   Monolith   393        YES        YES        32759      268501009  0.00
